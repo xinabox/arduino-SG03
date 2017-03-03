@@ -1,5 +1,5 @@
 # ☒CHIP SG03
-<img src="extras/SG01.png" width="300" align="right">
+<img src="extras/SG03.png" width="300" align="right">
 Library for SG03: Alcohol Sensor
 
 
