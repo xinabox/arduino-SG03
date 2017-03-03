@@ -2,11 +2,8 @@
 <img src="extras/SG03.png" width="300" align="right">
 Library for SG03: Alcohol Sensor
 
-
-This ☒CHIP is equipped to detect smoke and alcohol vapor , just like your common breathalyzer. It has a high sensitivity and fast response time. Sensor provides an analog resistive output based on alcohol concentration. 
-
-##
--TODO
+## About the SG03
+This ☒CHIP is equipped to detect alcohol vapor , just like your common breathalyzer. It has a high sensitivity and fast response time. Sensor provides an analog resistive output based on alcohol concentration. 
 
 ## Requirments
   - [☒Core Library](https://github.com/xinabox/xCore)
