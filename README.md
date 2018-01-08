@@ -2,10 +2,12 @@
 <img src="extras/SG03.png" width="35%" height="auto" align="right">
 Library for SG03: Alcohol Sensor
 
-## About the SG03
-This ☒CHIP is equipped to detect alcohol vapor , just like your common breathalyzer. It has a high sensitivity and fast response time. Sensor provides an analog resistive output based on alcohol concentration. 
+This module can be purchased on [Xinabox CC](https://xinabox.cc/products/SG03/).
 
-## Requirments
+## About the SG03
+This ☒CHIP is equipped to detect alcohol vapor , just like your common breathalyzer. It has a high sensitivity and fast response time. Sensor provides an analog output based on alcohol concentration. 
+
+## Requirements
   - [☒Core Library](https://github.com/xinabox/xCore)
   - [Arduino IDE 1.8.1](https://www.arduino.cc/en/main/software)
   - ☒CHIP CWO1 or CC01 or CR01
